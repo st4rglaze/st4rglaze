@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @st4rglaze
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End 
+- 🌱 I’m currently learning Front End Development 
 - 
 
 <!---
