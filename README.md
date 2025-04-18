@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @st4rglaze
+- 👋 Hi, I’m Reema
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front End Development 
 
